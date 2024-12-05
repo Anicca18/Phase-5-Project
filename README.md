@@ -52,6 +52,9 @@ The project outputs a detailed analysis of the top tokens most likely to increas
 This project provides a comprehensive approach to predicting token price increases using machine learning. The Gradient Boosting model, in particular, offers a reliable method for making these predictions, supported by robust evaluation metrics. Accuarcy can be increased by the utalization of more data, specifically on a minute by minute basis for price action. 
 
 ## Directory
+
 Data: [Etherscan](https://etherscan.io/)
+
 Data: [Dex Tools](https://www.dextools.io/app/en/new-tokens)
+
 Presentation: [Presentation.pdf](https://github.com/user-attachments/files/18028688/Presentation.pdf)
